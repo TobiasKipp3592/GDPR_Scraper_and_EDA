@@ -1,0 +1,1 @@
+This is a Web Scraper Project for GDPR and an Data Analysis.
